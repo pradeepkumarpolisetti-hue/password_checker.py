@@ -36,14 +36,6 @@ python password_checker.py
 
 ---
 
-## 📂 Project Structure
-
-password-strength-analyzer/
-│── password_checker.py
-│── README.md
-
----
-
 ## 🎯 Future Improvements
 - Convert into a web application  
 - Add AI-based password suggestions   
